@@ -41,7 +41,7 @@ This internship helped me break into the neural space. I worked on:
 - Real-world use cases: **image-based defect detection**, **sentiment analysis**
 
 <p align="center">
-  <img src="certificates/Deep_Learning_Certificate.jpg" width="600"/>
+  <img src="Deep_Learning_Certificate.jpg" width="600"/>
 </p>
 
 ---
@@ -57,7 +57,7 @@ From data to deployment, this course walked me through:
 - Understanding evaluation metrics like **F1-score** and **AUC-ROC**
 
 <p align="center">
-  <img src="certificates/ML_Certificate.jpg" width="600"/>
+  <img src="ML_Certificate.jpg" width="600"/>
 </p>
 
 ---
@@ -73,7 +73,7 @@ The foundation of everything I do in AI was built here:
 - Developed small automation tools & data pipelines
 
 <p align="center">
-  <img src="certificates/Python_Training.jpg" width="500"/>
+  <img src="Python_Training.jpg" width="500"/>
 </p>
 
 ---
@@ -89,7 +89,7 @@ Mastering SQL made me more fluent in **data preparation**:
 - Converted raw messy data into clean, ML-ready formats
 
 <p align="center">
-  <img src="certificates/SQL_Certificate.jpg" width="500"/>
+  <img src="SQL_Certificate.jpg" width="500"/>
 </p>
 
 ---
@@ -106,7 +106,7 @@ This course was a game-changer. I learned:
 - How AI can assist in **market forecasting and trading**
 
 <p align="center">
-  <img src="certificates/Financial_Markets_Yale.jpg" width="500"/>
+  <img src="Financial_Markets_Yale.jpg" width="500"/>
 </p>
 
 ---
@@ -127,6 +127,6 @@ This course was a game-changer. I learned:
 If you're into **AI, fintech, ed-tech**, or just love building things that matter — let's connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/packiavinslin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Say Hi-orange?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/packia-vinslin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:vinslinpackia@gmail.com"><img src="https://img.shields.io/badge/Email-Say Hi-orange?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
