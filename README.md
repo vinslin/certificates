@@ -1,6 +1,6 @@
 <!-- ─────────────────────────  HERO  ───────────────────────── -->
 <h1 align="center">
-  <img src="./assets/hero_banner.png" width="100%" alt="Packia Vinslin – Certificates"/>
+  <img src="banner.jpg" width="100%" alt="Packia Vinslin – Certificates"/>
 </h1>
 
 <div align="center">
