@@ -129,8 +129,5 @@ If you're into **AI, fintech, ed-tech**, or just love building things that matte
 <p align="center">
   <a href="https://www.linkedin.com/in/packia-vinslin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-  <a href="mailto:vinslinpackia@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-orange?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
