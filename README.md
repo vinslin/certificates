@@ -42,7 +42,7 @@ The certifications below chronicle my learning path from **Python basics** to
 <details>
 <summary>🧠 <strong>Internship on Deep Learning (30 Days)</strong> &nbsp;· Pantech Solutions &nbsp;· 14 May 2024</summary>
 
-<img align="right" src="certificates/Deep_Learning_Certificate.jpg" width="340"/>
+<img align="right" src="Deep_Learning_Certificate.jpg" width="340"/>
 
 **Highlights**
 
@@ -56,7 +56,7 @@ The certifications below chronicle my learning path from **Python basics** to
 <details>
 <summary>🤖 <strong>Internship on Machine Learning</strong> &nbsp;· Pantech Solutions &nbsp;· 28 Jan 2024</summary>
 
-<img align="right" src="certificates/ML_Certificate.jpg" width="340"/>
+<img align="right" src="ML_Certificate.jpg" width="340"/>
 
 **Highlights**
 
@@ -70,7 +70,7 @@ The certifications below chronicle my learning path from **Python basics** to
 <details>
 <summary>🐍 <strong>Python Programming</strong> &nbsp;· Besant Technologies &nbsp;· 27 Nov 2022</summary>
 
-<img align="right" src="certificates/Python_Training.jpg" width="260"/>
+<img align="right" src="Python_Training.jpg" width="260"/>
 
 **Highlights**
 
@@ -84,7 +84,7 @@ The certifications below chronicle my learning path from **Python basics** to
 <details>
 <summary>🧾 <strong>Structured Query Language (SQL)</strong> &nbsp;· Skill Nation &nbsp;· 5 Sep 2023</summary>
 
-<img align="right" src="certificates/SQL_Certificate.jpg" width="300"/>
+<img align="right" src="SQL_Certificate.jpg" width="300"/>
 
 **Highlights**
 
@@ -98,7 +98,7 @@ The certifications below chronicle my learning path from **Python basics** to
 <details>
 <summary>💰 <strong>Financial Markets</strong> &nbsp;· Yale University (Coursera) &nbsp;· 6 Feb 2024</summary>
 
-<img align="right" src="certificates/Financial_Markets_Yale.jpg" width="300"/>
+<img align="right" src="Financial_Markets_Yale.jpg" width="300"/>
 
 **Taught by Nobel laureate <em>Prof. Robert J. Shiller</em>**
 
